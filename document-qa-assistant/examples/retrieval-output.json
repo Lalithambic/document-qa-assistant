@@ -1,0 +1,16 @@
+{
+  "mode": "retrieval_only",
+  "answer": null,
+  "sources": [
+    {
+      "source": "leave-policy.txt#chunk-1",
+      "text": "Synthetic policy for fictional Northstar Demo Company. This is not a real employer policy. Employees receive 18 days of annual leave per calendar year. Submit annual leave requests at least 5 working days in advance. A manager must approve the request before leave begins.",
+      "score": 5.379553
+    },
+    {
+      "source": "expenses.txt#chunk-1",
+      "text": "Synthetic policy for fictional Northstar Demo Company. Travel expense claims must be submitted within 30 days after the trip ends. Attach receipts to the expense claim. Finance reviews complete claims within 7 working days.",
+      "score": 0.685199
+    }
+  ]
+}

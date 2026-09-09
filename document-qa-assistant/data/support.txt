@@ -1,0 +1,2 @@
+Synthetic support guide for fictional Northstar Demo Company.
+To reset a forgotten password, use the account portal and select Reset password. For a locked account, contact the internal help desk. Never share your password or security code.

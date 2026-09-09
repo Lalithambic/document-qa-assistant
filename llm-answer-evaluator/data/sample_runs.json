@@ -1,0 +1,38 @@
+[
+  {
+    "id": "leave-correct",
+    "question": "Annual leave allowance?",
+    "answer": "18 days",
+    "expected_answer": "18 days",
+    "retrieved_sources": [
+      "leave-policy.txt#chunk-1"
+    ],
+    "expected_sources": [
+      "leave-policy.txt#chunk-1"
+    ]
+  },
+  {
+    "id": "expense-wrong",
+    "question": "Expense submission deadline?",
+    "answer": "60 days",
+    "expected_answer": "30 days",
+    "retrieved_sources": [
+      "support.txt#chunk-1"
+    ],
+    "expected_sources": [
+      "expenses.txt#chunk-1"
+    ]
+  },
+  {
+    "id": "support-correct",
+    "question": "Where do I reset a password?",
+    "answer": "Use the account portal",
+    "expected_answer": "Use the account portal",
+    "retrieved_sources": [
+      "support.txt#chunk-1"
+    ],
+    "expected_sources": [
+      "support.txt#chunk-1"
+    ]
+  }
+]

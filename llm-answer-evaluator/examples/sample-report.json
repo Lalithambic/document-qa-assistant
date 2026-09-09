@@ -1,0 +1,27 @@
+{
+  "count": 3,
+  "mean_exact_match": 0.6666666666666666,
+  "mean_answer_token_f1": 0.8333333333333334,
+  "mean_source_recall": 0.6666666666666666,
+  "rows_with_expected_sources": 3,
+  "results": [
+    {
+      "id": "leave-correct",
+      "normalized_exact_match": true,
+      "answer_token_f1": 1.0,
+      "source_recall": 1.0
+    },
+    {
+      "id": "expense-wrong",
+      "normalized_exact_match": false,
+      "answer_token_f1": 0.5,
+      "source_recall": 0.0
+    },
+    {
+      "id": "support-correct",
+      "normalized_exact_match": true,
+      "answer_token_f1": 1.0,
+      "source_recall": 1.0
+    }
+  ]
+}
